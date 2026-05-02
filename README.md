@@ -1,4 +1,5 @@
-📊 Data Analytics Project – README
+📊 Data Analytics Project
+
 🔍 Overview
 
 This project focuses on end-to-end data analytics, starting from data loading and cleaning to visualization and reporting. The goal is to extract meaningful insights from raw data and present them through an interactive dashboard and a structured report.
