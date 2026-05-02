@@ -18,7 +18,7 @@ Gamma – Presentation (PPT) creation
 
 ⚙️ Steps Involved
 
-![Power BI Dashboard](Process of the project.png)
+![Power BI Dashboard](Process_of_the_project.png)
 
 1. Data Loading
 Imported dataset into Python using Pandas
