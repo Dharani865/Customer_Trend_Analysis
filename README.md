@@ -54,11 +54,15 @@ Created a presentation (PPT) using Gamma for easy understanding
 📊 Dashboard
 
 Interactive Power BI dashboard provides visual insights
+
 Includes filters for dynamic data exploration
+
 Helps stakeholders make data-driven decisions
 
 📈 Results & Insights
 
 Identified key patterns and trends in the dataset
+
 Generated actionable insights based on SQL queries and visualizations
+
 Improved understanding of business metrics through dashboards
