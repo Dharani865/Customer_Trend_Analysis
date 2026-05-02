@@ -7,15 +7,21 @@ This project focuses on end-to-end data analytics, starting from data loading an
 📁 Dataset
 
 The dataset used in this project contains structured data suitable for analysis.
+
 It was loaded into Python for preprocessing and later stored in PostgreSQL for querying.
+
 Data includes multiple features such as categorical and numerical variables used for analysis.
 
 🛠️ Tools & Technologies
 
 Python – Data loading, cleaning, and EDA
+
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
+
 PostgreSQL – Querying and data storage
+
 Power BI – Dashboard creation
+
 Gamma – Presentation (PPT) creation
 
 ⚙️ Steps Involved
