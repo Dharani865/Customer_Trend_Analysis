@@ -5,11 +5,13 @@
 This project focuses on end-to-end data analytics, starting from data loading and cleaning to visualization and reporting. The goal is to extract meaningful insights from raw data and present them through an interactive dashboard and a structured report.
 
 📁 Dataset
+
 The dataset used in this project contains structured data suitable for analysis.
 It was loaded into Python for preprocessing and later stored in PostgreSQL for querying.
 Data includes multiple features such as categorical and numerical variables used for analysis.
 
 🛠️ Tools & Technologies
+
 Python – Data loading, cleaning, and EDA
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
 PostgreSQL – Querying and data storage
@@ -50,11 +52,13 @@ Summarized insights into a structured report
 Created a presentation (PPT) using Gamma for easy understanding
 
 📊 Dashboard
+
 Interactive Power BI dashboard provides visual insights
 Includes filters for dynamic data exploration
 Helps stakeholders make data-driven decisions
 
 📈 Results & Insights
+
 Identified key patterns and trends in the dataset
 Generated actionable insights based on SQL queries and visualizations
 Improved understanding of business metrics through dashboards
